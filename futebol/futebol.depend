@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1480375917 source:c:\documents and settings\2010016950\desktop\futebol\futebol.c
+	"futebol.h"
+
+1480376748 c:\documents and settings\2010016950\desktop\futebol\futebol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1480953290 source:c:\documents and settings\2010016950\desktop\futebol\main.c
+	"futebol.h"
+	"hash_SBB.h"
+
+1480532455 source:c:\documents and settings\2010016950\desktop\futebol\hash.c
+	"futebol.h"
+	"hash_SBB.h"
+
+1480953682 source:c:\documents and settings\2010016950\desktop\futebol\quicksort.c
+	"futebol.h"
+
+1480953049 source:c:\documents and settings\2010016950\desktop\futebol\sbb.c
+	"futebol.h"
+	"hash_SBB.h"
+
+1480953682 source:c:\documents and settings\2010016950\desktop\futebol\shellsort.c
+	"futebol.h"
+
+1479858036 source:c:\documents and settings\2010016950\desktop\futebol\partei.c
+	"futebol.h"
+
+1480948164 c:\documents and settings\2010016950\desktop\futebol\hash_sbb.h
+
+1480371904 source:c:\documents and settings\2010016950\desktop\futebol\saida.c
+	"futebol.h"
+
+1480375917 source:c:\users\luphus\desktop\futebol\futebol.c
+	"futebol.h"
+
+1481663678 c:\users\luphus\desktop\futebol\futebol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481659276 source:c:\users\luphus\desktop\futebol\hash.c
+	"futebol.h"
+	"hash_SBB.h"
+
+1481658530 c:\users\luphus\desktop\futebol\hash_sbb.h
+
+1481658675 source:c:\users\luphus\desktop\futebol\main.c
+	"futebol.h"
+	"hash_SBB.h"
+
+1480953682 source:c:\users\luphus\desktop\futebol\quicksort.c
+	"futebol.h"
+
+1480371904 source:c:\users\luphus\desktop\futebol\saida.c
+	"futebol.h"
+
+1480953049 source:c:\users\luphus\desktop\futebol\sbb.c
+	"futebol.h"
+	"hash_SBB.h"
+
+1480953682 source:c:\users\luphus\desktop\futebol\shellsort.c
+	"futebol.h"
+
