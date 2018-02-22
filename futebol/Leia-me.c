@@ -1,8 +1,8 @@
-                    /// Tarcísio de Oliveira Rocha
+                    /// TarcÃ­sio de Oliveira Rocha
 
 
 /*
-programador: Tarcísio de Oliveira Rocha
+programador: TarcÃ­sio de Oliveira Rocha
 local: CCE UFMG
 IDE: CodeBlocks 12.11, pronpt de comando, e gedit
 compilador: GCC
@@ -13,30 +13,30 @@ numero de arquivos do anexo: 10
 Inicio: segunda-feira, 21 de novembro de 2016, 16:48
 Termino:segunda-feira,5 de dezembro de 2016: 20:47
 
-considerações: tentei deixar o codigo mais claro possivel, o codigo foi dividido em 7
+consideraÃ§Ãµes: tentei deixar o codigo mais claro possivel, o codigo foi dividido em 7
 arquivos .c e um .h, decidi dividir o programa desta forma pois acho que o codigo
-torna-se mais legivel e compreensível a qualquer um que o tente ler.
+torna-se mais legivel e compreensÃ­vel a qualquer um que o tente ler.
 
-futebol.h -> neste aquivos são encontradas as estruturas de dados referentes aos Times.
+futebol.h -> neste aquivos sÃ£o encontradas as estruturas de dados referentes aos Times.
 
-hash_SBB.h -> referente a hash com colisão resolvidada por arvores SBB.
+hash_SBB.h -> referente a hash com colisÃ£o resolvidada por arvores SBB.
 
-hash.c -> funções referentes a tabela Hash.
+hash.c -> funÃ§Ãµes referentes a tabela Hash.
 
-SBB.c -> funções referentes a arvore que será utilizada quando ouver conflito da Hash.
+SBB.c -> funÃ§Ãµes referentes a arvore que serÃ¡ utilizada quando ouver conflito da Hash.
 
-futebol.c -> encontra-se as funções que realizam as regras do campeonato.
+futebol.c -> encontra-se as funÃ§Ãµes que realizam as regras do campeonato.
 
-quisort.c -> funções quicksort para atender ao trabalho.
+quisort.c -> funÃ§Ãµes quicksort para atender ao trabalho.
 
-shellsort -> algortimo de ordenação
+shellsort -> algortimo de ordenaÃ§Ã£o
 
-saida.c -> contém a funçõe que gera a saída.
+saida.c -> contÃ©m a funÃ§Ãµe que gera a saÃ­da.
 
-main.c -> função principal .
+main.c -> funÃ§Ã£o principal .
 
 Leia-me.c-> ------------
 
-Agora leia-me outra coisa ;)
+Agora leia-me outra coisa ;
 
 */
